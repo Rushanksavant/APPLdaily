@@ -1,0 +1,10 @@
+joblib==0.17.0
+streamlit
+datetime
+pytz
+nltk
+matplotlib
+numpy
+pandas
+plotly
+scikit-learn
