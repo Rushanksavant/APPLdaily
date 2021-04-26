@@ -81,7 +81,7 @@ Running all the cells specified in the notebook, will finally result in a **Ngro
     ColabStreamlit('/content/app.py') # streamlit app path
 ```
 Example for the same is as follows : 
-[![Ngrok Server Link]()]
+https://colab.research.google.com/drive/14H7XQcs8tTdXlaPTpazffXYYhQ5P2NcT?usp=sharing
 
 ### Challenges we ran into 🧠
 * Kaggle dataset error
